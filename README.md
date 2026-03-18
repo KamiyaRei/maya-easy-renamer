@@ -6,11 +6,11 @@ A collection of Python scripts designed to streamline workflow, improve scene ma
 
 ## Available Tools
 
-### 1. [Easy Renamer](./easy-renamer/)
+### 1. [Easy Renamer](./maya-easy-renamer/)
 A comprehensive bulk renaming tool featuring a PySide interface and UUID-based logic for safe hierarchy management.
 * **Key Features:** Sequential numbering, Search & Replace (Regex/Match Case), Prefix/Suffix, and Outliner sorting.
 
-### 2. [Select by Normal](./select-by-normal/)
+### 2. [Select by Normal](./maya-select-by-normal/)
 A component selection utility built with OpenMaya API 2.0.
 * **Key Features:** Dot product based face selection with synchronized slider and high-precision input (0.001° tolerance).
 
