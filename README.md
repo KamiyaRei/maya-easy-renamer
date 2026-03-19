@@ -14,6 +14,14 @@ A comprehensive bulk renaming tool featuring a PySide interface and UUID-based l
 A component selection utility built with OpenMaya API 2.0.
 * **Key Features:** Dot product based face selection with synchronized slider and high-precision input (0.001° tolerance).
 
+### 3. [CV Cluster Create](./maya-cv-cluster-create/)
+A utility for quickly creating clusters on CV points of curves.
+* **Key Features:** One-click cluster creation for selected CVs, ideal for rigging workflows and curve-based controls.
+
+### 4. [Chroma BG Toggle](./maya-chroma-bg-toggle/)
+A simple viewport utility to toggle a chroma key background.
+* **Key Features:** Instantly switch viewport background to green (chroma key) and back to default.
+
 ---
 
 ## Installation
@@ -24,3 +32,9 @@ A component selection utility built with OpenMaya API 2.0.
 4. Highlight the code and drag it to your **Shelf** with the Middle Mouse Button to create a shortcut.
 
 ---
+
+## Notes
+
+- All tools are designed to be lightweight and independent.
+- No external dependencies required.
+- Tested in Maya 2024
