@@ -1,13 +1,21 @@
-# Maya Easy Renamer
+<p align="center">
+  <img src="assets/easyRenamer_logo.png" alt="Maya Easy Renamer logo" width="400"/>
+</p>
 
-Advanced renaming and scene organization utility for Autodesk Maya.
+<h1 align="center">Maya Easy Renamer</h1>
+
+<p align="center">
+  Advanced Renaming & Scene Organization Utility for Autodesk Maya
+</p>
+
+---
 
 ### Main Window
 <p align="center">
   <img src="assets/easyRenamer_mainScreen" alt="Main Window" width="700">
 </p>
 
-## Key Features
+## Features
 
 * **Smart Renaming:** Sequential numbering with custom padding and support for hash patterns (e.g., `Object_###`).
 * **Search & Replace:** Quick string replacement with optional Match Case and Regex support.
@@ -20,9 +28,10 @@ Advanced renaming and scene organization utility for Autodesk Maya.
 
 ## Installation
 
-1. Copy the code from `mayaEasyRenamer.py`.
+1. Copy the code from **[`mayaEasyRenamer.py`](mayaEasyRenamer.py)**.
 2. Open the **Script Editor** in Maya and paste the code into a **Python** tab.
 3. Highlight the code and drag it to your **Shelf** to create a shortcut icon.
+4. You can also **[download the icon](assets/easyRenamer_icon.png)** from the `assets` folder and use it in your shelf.
 
 ## Usage
 
