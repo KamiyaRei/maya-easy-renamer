@@ -4,7 +4,7 @@ Advanced renaming and scene organization utility for Autodesk Maya.
 
 ### Main Window
 <p align="center">
-  <img src="assets/easyRenamer_mainScreen" alt="Main Window" width="700">
+  <img src="assets/easyRenamer_mainScreen.png" alt="Main Window" width="700">
 </p>
 
 ## Key Features
