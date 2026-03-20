@@ -2,6 +2,11 @@
 
 Advanced renaming and scene organization utility for Autodesk Maya.
 
+### Main Window
+<p align="center">
+  <img src="assets/easyRenamer_mainScreen" alt="Main Window" width="700">
+</p>
+
 ## Key Features
 
 * **Smart Renaming:** Sequential numbering with custom padding and support for hash patterns (e.g., `Object_###`).
